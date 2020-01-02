@@ -54,5 +54,5 @@ The results of Model 1 show that most of the variance in country CO2 emissions a
 
 Both models exclusively used data from 2016 and could be improved by adding years and increasing the sample size. 
 
-For additional context on the thought process and literature that inspired this research, check out this [blog post].(https://medium.com/swlh/what-will-the-energy-transition-actually-require-cee8d3feb7f5) 
+For additional context on the thought process and literature that inspired this research, check out this [blog post.](https://medium.com/swlh/what-will-the-energy-transition-actually-require-cee8d3feb7f5) 
 
