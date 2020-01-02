@@ -22,7 +22,7 @@ The purpose of building this model was to learn whether carbon dioxide emissions
 
 Target variable distribution, CO2 emissions per capita by country, shows a non-normal distribution. 
 
-
+![Distribution of CO2 Emissions per Capita by Country](images/model_1_target_distribution.png)
 
 After checking for collinearity among feature variables, we selected the following features for the final model:
 - Political Stability 
@@ -38,6 +38,8 @@ The r-squared value for this model is .192, suggesting political variables expla
 The purpose of building this model was to identify the strongest socioeconomic predictors of national Internet usage as a percent of the total population.  
 
 Target variable distribution, percent of population using Internet, shows a relatively normal distribution. 
+
+![Global Distribution of Internet Access by Country](images/model_2_target_distribution.png)
 
 After checking for collinearity among feature variables and investigating variance inflation factors, we selected the following features for the final model:
 - GDP per capita 
