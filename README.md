@@ -48,3 +48,11 @@ After checking for collinearity among feature variables and investigating varian
 
 The r-squared value for this model is .792, suggesting these features - especially GDP per capita - explain most of the variance in country population Internet usage. 
 
+## Conclusion 
+
+The results of Model 1 show that most of the variance in country CO2 emissions are related to economic development and wealth, not political stability or government structure. Model 2 succeeded in accurately predicting levels of internet access among country populations, but GDP per capita proved to be the most predictive variable - by far. Overall, it is very hard to distinguish whether political and cultural variables impact emissions or Internet access because energy consumption and technology adoption are so strongly correlated with GDP. 
+
+Both models exclusively used data from 2016 and could be improved by adding years and increasing the sample size. 
+
+For additional context on the thought process and literature that inspired this research, check out this [blog post].(https://medium.com/swlh/what-will-the-energy-transition-actually-require-cee8d3feb7f5) 
+
